@@ -29,7 +29,7 @@ extern "C" {
 
 /* Includes ------------------------------------------------------------------*/
 #include "stm32l4xx_hal.h"
-#define P_ledRed GPIO_PIN_13
+#define P_ledBlue GPIO_PIN_13
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
