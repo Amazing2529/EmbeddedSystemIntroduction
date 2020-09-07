@@ -94,12 +94,12 @@ int main(void) {
   /* USER CODE BEGIN WHILE */
   while (1) {
     /* USER CODE END WHILE */
-    HAL_Delay(500);
-    HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_13);
-    HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_13);
-
 
     /* USER CODE BEGIN 3 */
+    HAL_Delay(500);
+    HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_13);
+    HAL_GPIO_TogglePin(GPIOC, P_ledRed);
+
   }
   /* USER CODE END 3 */
 }
