@@ -25,7 +25,7 @@
 2. MarKDown 文档的写作能力，请阅读 [MarkDown 写作指南](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/)。
 3. 形成自己的编程风格和规范，课程中会给出一种风格规范。
 4. 嵌入式 C 语言的开发特性，比如 volatile、const、interrupt 等几个关键词后面的理论含义。
-5. 嵌入式常规仪器（万用表，逻辑分析仪，示波器等）的使用能力训练，嵌入式程序员易忽略此点。
+5. 嵌入式常规仪器（万用表，[逻辑分析仪](https://support.saleae.com/user-guide)，[示波器](https://www.tek.com.cn/oscilloscope/tbs1000b-edu-digital-storage-oscilloscope-manual/tbs1000b-and-tbs1000b-edu-series-oscil)等）的使用能力训练，嵌入式程序员易忽略此点。
 6. 产品创新和规划能力，培养工程师的商业敏锐度。
 
 > 使用课程时有任何问题和建议，请及时与我们联系，请 pull request 。
